@@ -1,4 +1,4 @@
-# Vize 3 - BlockPick Blog / Bootstrap-SCSS-HTML-JAVASCRIPT
+# Vize 3 - BlockPick Blog / Bootstrap-SCSS-HTML-Javascript
 
 ![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
 
